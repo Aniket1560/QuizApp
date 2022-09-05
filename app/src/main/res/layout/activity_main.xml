@@ -17,6 +17,7 @@
         android:layout_alignLeft="@+id/editName"
         android:layout_alignStart="@+id/editName"
         android:textColor="#F44336" />
+
     <Button
         android:id="@+id/button"
         android:layout_width="200dp"
